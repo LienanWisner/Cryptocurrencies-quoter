@@ -4,14 +4,20 @@ import Alerta from "./components/Alerta.vue"
 import Spinner from "./components/Spinner.vue"
 
 const monedas = ref([
-  { codigo: "ARS", texto: "Peso Argentino" },
   { codigo: "USD", texto: "Dolar estadounidense" },
   { codigo: "EUR", texto: "Euros" },
+  { codigo: "ARS", texto: "Peso Argentino" },
   { codigo: "CLP", texto: "Peso Chileno" },
-  { codigo: "MXN", texto: "Peso Mexicano" },
+  { codigo: "PEN", texto: "Sol Peruano" },
+  { codigo: "COP", texto: "Peso Colombiano" },
   { codigo: "UYU", texto: "Peso Uruguayo" },
-  { codigo: "AUD", texto: "Dolar Australiano" },
+  { codigo: "PYG", texto: "Peso Paraguayo" },
+  { codigo: "BOB", texto: "Peso Boliviano" },
+  { codigo: "VES", texto: "Bolivar Venezolano" },
+  { codigo: "GTQ", texto: "Quetzal Guatemala" },
+  { codigo: "MXN", texto: "Peso Mexicano" },
   { codigo: "GBP", texto: "Libras Esterlinas" },
+  
 ]);
 
 const criptomonedas = ref([]);
