@@ -14,8 +14,8 @@
   width: 40px;
   height: 40px;
   position: relative;
-  left: 12em;
-  top: 3em;
+  left: 7em;
+  top: 2em;
   animation: sk-chase 2.5s infinite linear both;
 }
 
