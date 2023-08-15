@@ -12,3 +12,5 @@ The information you will get is:
  * Last update:
    
 And it's responsive, you can use it on you phone! :)
+
+Deploy: https://lien-criptomonedas.netlify.app/
