@@ -10,3 +10,5 @@ The information you will get is:
  * Minimum price of the day:
  * Last 24hs variation:
  * Last update:
+   
+And it's responsive, you can use it on you phone! :)
