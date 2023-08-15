@@ -1,5 +1,7 @@
 < WELCOME! />
 
+This simple app was made on Vue!
+
 It is easy! Only put the currency you want to convert the crypto in and, of course, which crypto you want!
 The information you will get is:
 
